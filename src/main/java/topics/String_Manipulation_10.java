@@ -9,7 +9,9 @@ public class String_Manipulation_10 {
 		String chars=new String(str);// 1st method to create string
 	    System.out.println(chars);
 	    
-	    System.out.println("GIT");
+	    System.out.println("GIT-HUB");
+	    
+	    System.out.println("GITHUB");
 	    
 	    String Name="Avi Gupta";//2nd method to create string
 	    System.out.println(Name);
