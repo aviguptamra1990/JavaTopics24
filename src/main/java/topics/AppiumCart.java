@@ -5,7 +5,7 @@ public class AppiumCart {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.out.println("New Selenium Cart class");
+		System.out.println("APPIUM CART 2 CLASS");
 
 	}
 
