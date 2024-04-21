@@ -7,6 +7,8 @@ public class AppiumCart {
 		
 		System.out.println("APPIUM CART 2 CLASS");
 
+		System.out.println("APPIUM CART 4 CLASS");
+
 	}
 
 }
